@@ -1,0 +1,28 @@
+/* Styles go here */
+div{
+  margin:0px;
+  padding:0px;
+  border:none;
+}
+
+table{
+  border-spacing: 0px;
+}
+
+#cssout{
+  display:inline-block;
+  width:16px;
+  height:16px;
+}
+#cssey,#tabley{
+ padding:20px; 
+}
+#cssey pre {
+  margin-top:160px;
+}
+
+.pixels{
+	display: inline-block;
+	width: 1px;
+	height: 1px;
+}
