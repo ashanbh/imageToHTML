@@ -13,5 +13,5 @@ See a demo here: https://embed.plnkr.co/NzSA5EHpEFpLhfLQrPhu/
 > ![as Table cells](/screenshots/3.png)
 > ![as table cells](/screenshots/4.png)
 
-## Converted to coloered CSS attributes 
+## Converted to Colored CSS attributes 
 > ![as CSS](/screenshots/2.png)
