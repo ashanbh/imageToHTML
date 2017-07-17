@@ -6,12 +6,12 @@ However, if you convert the image to HTML i.e. take the actual pixels and encode
 
 See a demo here: https://embed.plnkr.co/NzSA5EHpEFpLhfLQrPhu/
 
-* Orginal Image
-![Screenshot](/screenshots/1.png)
+## Orginal Image
+> ![Screenshot](/screenshots/1.png)
 
-* Converted to coloered Table cells
-![as Table cells](/screenshots/3.png)
-![as table cells](/screenshots/4.png)
+## Converted to coloered Table cells
+> ![as Table cells](/screenshots/3.png)
+> ![as table cells](/screenshots/4.png)
 
-* Converted to coloered CSS attributes 
-![as CSS](/screenshots/2.png)
+## Converted to coloered CSS attributes 
+> ![as CSS](/screenshots/2.png)
