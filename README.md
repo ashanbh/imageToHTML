@@ -9,7 +9,7 @@ See a demo here: https://embed.plnkr.co/NzSA5EHpEFpLhfLQrPhu/
 ## Orginal Image
 > ![Screenshot](/screenshots/1.png)
 
-## Converted to coloered Table cells
+## Converted to Colored Table cells
 > ![as Table cells](/screenshots/3.png)
 > ![as table cells](/screenshots/4.png)
 
