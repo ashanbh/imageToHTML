@@ -6,7 +6,7 @@ However, if you convert the image to HTML i.e. take the actual pixels and encode
 
 See a demo here: https://embed.plnkr.co/NzSA5EHpEFpLhfLQrPhu/
 
-![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/1.png)
 
 
 
